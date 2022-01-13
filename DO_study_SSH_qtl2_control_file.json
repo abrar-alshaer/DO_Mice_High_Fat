@@ -1,0 +1,30 @@
+{
+  "description": "RvE1 Shaikh Lab DO Project",
+  "crosstype": "do",
+  "sep": ",",
+  "na.strings": ["-", "NA"],
+  "comment.char": "#",
+  "geno": ["GMqtl2_SSHlab_geno1.csv", "GMqtl2_SSHlab_geno2.csv", "GMqtl2_SSHlab_geno3.csv", "GMqtl2_SSHlab_geno4.csv", "GMqtl2_SSHlab_geno5.csv", "GMqtl2_SSHlab_geno6.csv", "GMqtl2_SSHlab_geno7.csv", "GMqtl2_SSHlab_geno8.csv", "GMqtl2_SSHlab_geno9.csv", "GMqtl2_SSHlab_geno10.csv", "GMqtl2_SSHlab_geno11.csv", "GMqtl2_SSHlab_geno12.csv", "GMqtl2_SSHlab_geno13.csv", "GMqtl2_SSHlab_geno14.csv", "GMqtl2_SSHlab_geno15.csv", "GMqtl2_SSHlab_geno16.csv", "GMqtl2_SSHlab_geno17.csv", "GMqtl2_SSHlab_geno18.csv", "GMqtl2_SSHlab_geno19.csv", "GMqtl2_SSHlab_genoX.csv"],
+  "founder_geno": ["GM_processed_files/GM/GM_foundergeno1.csv", "GM_processed_files/GM/GM_foundergeno2.csv", "GM_processed_files/GM/GM_foundergeno3.csv", "GM_processed_files/GM/GM_foundergeno4.csv", "GM_processed_files/GM/GM_foundergeno5.csv", "GM_processed_files/GM/GM_foundergeno6.csv", "GM_processed_files/GM/GM_foundergeno7.csv", "GM_processed_files/GM/GM_foundergeno8.csv", "GM_processed_files/GM/GM_foundergeno9.csv", "GM_processed_files/GM/GM_foundergeno10.csv", "GM_processed_files/GM/GM_foundergeno11.csv", "GM_processed_files/GM/GM_foundergeno12.csv", "GM_processed_files/GM/GM_foundergeno13.csv", "GM_processed_files/GM/GM_foundergeno14.csv", "GM_processed_files/GM/GM_foundergeno15.csv", "GM_processed_files/GM/GM_foundergeno16.csv", "GM_processed_files/GM/GM_foundergeno17.csv", "GM_processed_files/GM/GM_foundergeno18.csv", "GM_processed_files/GM/GM_foundergeno19.csv", "GM_processed_files/GM/GM_foundergenoX.csv"],
+  "gmap": ["GM_processed_files/GM/GM_gmap1.csv", "GM_processed_files/GM/GM_gmap2.csv", "GM_processed_files/GM/GM_gmap3.csv", "GM_processed_files/GM/GM_gmap4.csv", "GM_processed_files/GM/GM_gmap5.csv", "GM_processed_files/GM/GM_gmap6.csv", "GM_processed_files/GM/GM_gmap7.csv", "GM_processed_files/GM/GM_gmap8.csv", "GM_processed_files/GM/GM_gmap9.csv", "GM_processed_files/GM/GM_gmap10.csv", "GM_processed_files/GM/GM_gmap11.csv", "GM_processed_files/GM/GM_gmap12.csv", "GM_processed_files/GM/GM_gmap13.csv", "GM_processed_files/GM/GM_gmap14.csv", "GM_processed_files/GM/GM_gmap15.csv", "GM_processed_files/GM/GM_gmap16.csv", "GM_processed_files/GM/GM_gmap17.csv", "GM_processed_files/GM/GM_gmap18.csv", "GM_processed_files/GM/GM_gmap19.csv", "GM_processed_files/GM/GM_gmapX.csv"],
+  "pmap": ["GM_processed_files/GM/GM_pmap1.csv", "GM_processed_files/GM/GM_pmap2.csv", "GM_processed_files/GM/GM_pmap3.csv", "GM_processed_files/GM/GM_pmap4.csv", "GM_processed_files/GM/GM_pmap5.csv", "GM_processed_files/GM/GM_pmap6.csv", "GM_processed_files/GM/GM_pmap7.csv", "GM_processed_files/GM/GM_pmap8.csv", "GM_processed_files/GM/GM_pmap9.csv", "GM_processed_files/GM/GM_pmap10.csv", "GM_processed_files/GM/GM_pmap11.csv", "GM_processed_files/GM/GM_pmap12.csv", "GM_processed_files/GM/GM_pmap13.csv", "GM_processed_files/GM/GM_pmap14.csv", "GM_processed_files/GM/GM_pmap15.csv", "GM_processed_files/GM/GM_pmap16.csv", "GM_processed_files/GM/GM_pmap17.csv", "GM_processed_files/GM/GM_pmap18.csv", "GM_processed_files/GM/GM_pmap19.csv", "GM_processed_files/GM/GM_pmapX.csv"],
+  "pheno": "DO_final_pheno_file_transformed_w-FCs_Added_Weights.csv",
+  "covar": "DO_final_covar_file.csv",
+  "phenocovar": "DO_metaData.csv",
+  "x_chr": "X",
+  "genotypes": {
+    "A": 1,
+    "H": 2,
+    "B": 3
+  },
+  "geno_transposed": true,
+  "founder_geno_transposed": true,
+  "sex": {
+    "covar": "sex",
+    "F": "Female",
+    "M": "Male"
+  },
+  "cross_info": {
+    "covar": "ngen"
+  }
+}
